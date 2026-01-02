@@ -1,13 +1,3 @@
-# Team members:
-
-- Cecile Ostermann
-- Hugo Wambst
-- Alice Lemaire
-- Victoire Bonnet de Roovere
-- Mathilde Bui
-- Matisse Dezileau
-
-
 # Principe général de l'application Web: Tutorat en langue entre les élèves
 
 Lorsqu'un élève arrive sur le site il doit se connecter, ou s'inscrire s'il n'est pas déjà dans la base de données. Ensuite, il peut consulter les langues disponibles, puis choisir le niveau de langue, puis le cours auquel il veut assister.
@@ -41,15 +31,5 @@ Un élève peut suivre plusieurs cours, et un cours peut être suivi par plusieu
 - Un élève peut alors choisir un cours par étapes
 - Fonctionnalité de paiement
 - Laisser un avis
-
-# Organisation :
-
---> Il n'y a pas d'interaction entre les pages au début
-
-- Création page login (Victoire)
-- Création page création compte (Cécile + Mathilde)
-- Création pages avec infos (Matisse)
-- Création base de données (Hugo)
-- Implémentation templates ()
 
 
